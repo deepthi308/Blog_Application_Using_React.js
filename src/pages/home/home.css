@@ -1,0 +1,5 @@
+.homePage{
+    height: calc(100vh - 4rem);
+    width: 100vw;
+    background-color: rgb(244, 216, 255);
+}

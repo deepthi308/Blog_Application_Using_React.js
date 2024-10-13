@@ -1,0 +1,32 @@
+.individualBlog{
+    height: calc(100vh - 4rem);
+    background-color: rgb(244, 216, 255);
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    align-items: center;
+    gap: 2rem;
+}
+
+.blog-image1{
+    width: 80%;
+    margin: 0 auto;
+    height: contain;
+}
+
+.blog-bottom1{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.views, .likes, .dislikes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    color: rgb(70, 2, 96);
+}
+
+.blog-tags{
+    margin: 1rem 0rem;
+}
